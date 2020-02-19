@@ -1,3 +1,2 @@
-# App-todo
-To-Do App
-CRUD with Nodejs+Mongodb+React, Redux by cod3r
+# React+Redux App-todo
+CRUD To-Do
